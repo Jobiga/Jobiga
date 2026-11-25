@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, I'm Jobiga Anantharasa👋
 
-<!--
-**Jobiga/Jobiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🎓 BSc IT - Level 3 Undergraduate |  Open University of Sri Lanka(OUSL)
+- 🌱 Currently exploring the world of coding
+- 💻 Interested in learning programming, web development & IT
+- 🎯 Goal: To build my skills and become a confident IT professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Currently Learning
+- Python - Basics
+- Git & GitHub
+- Basics of IT
+ 
+### 📫 Connect With Me
+- GitHub: github.com/Jobiga
+
+---
+
+### ✨ Fun Fact
+📺 C-drama & K-drama lover | ♥️ Thalapathy Vijay fan who is starting to code with Python 🎧🐍
+
+⭐️ *“Starting from zero, learning one line of code at a time.”*
